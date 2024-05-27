@@ -1,7 +1,7 @@
 # llvm_compiler
 >由 C++ 开发的 C 语言子集编译至 LLVM 中间代码编译器。
 >
->文法详见：
+>文法详见：[2023编译实验文法说明](https://github.com/Cx330-502/llvm_compiler/blob/main/2023编译实验文法说明.pdf)
 
 [TOC]
 
